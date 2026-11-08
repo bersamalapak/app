@@ -1,0 +1,2 @@
+https://bersamalapak.github.io/app/demo/config.json
+https://bersamalapak.github.io/app/demo/demo.apk
